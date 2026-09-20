@@ -1,5 +1,4 @@
 from operator import concat
-from string import capwords
 
 s1="Enter your name :"
 s2="Hello"
